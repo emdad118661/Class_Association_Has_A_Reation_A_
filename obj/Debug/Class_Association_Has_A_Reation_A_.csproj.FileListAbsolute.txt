@@ -1,0 +1,7 @@
+D:\versity doc\C# notes\Class_Association_Has_A_Reation_A_\Class_Association_Has_A_Reation_A_\bin\Debug\Class_Association_Has_A_Reation_A_.exe.config
+D:\versity doc\C# notes\Class_Association_Has_A_Reation_A_\Class_Association_Has_A_Reation_A_\bin\Debug\Class_Association_Has_A_Reation_A_.exe
+D:\versity doc\C# notes\Class_Association_Has_A_Reation_A_\Class_Association_Has_A_Reation_A_\bin\Debug\Class_Association_Has_A_Reation_A_.pdb
+D:\versity doc\C# notes\Class_Association_Has_A_Reation_A_\Class_Association_Has_A_Reation_A_\obj\Debug\Class_Association_Has_A_Reation_A_.csprojAssemblyReference.cache
+D:\versity doc\C# notes\Class_Association_Has_A_Reation_A_\Class_Association_Has_A_Reation_A_\obj\Debug\Class_Association_Has_A_Reation_A_.csproj.CoreCompileInputs.cache
+D:\versity doc\C# notes\Class_Association_Has_A_Reation_A_\Class_Association_Has_A_Reation_A_\obj\Debug\Class_Association_Has_A_Reation_A_.exe
+D:\versity doc\C# notes\Class_Association_Has_A_Reation_A_\Class_Association_Has_A_Reation_A_\obj\Debug\Class_Association_Has_A_Reation_A_.pdb
